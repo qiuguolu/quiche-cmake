@@ -1,0 +1,6 @@
+build
+.vscode
+.cache
+*.pb.h
+*.pb.cc
+!third_party/googleurl/build
